@@ -1,7 +1,8 @@
 {
   "name": "react-portal-drawer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Drawer modal using React portal",
+  "license": "MIT",
   "homepage": "https://github.com/bassyu/react-portal-drawer",
   "repository": {
     "type": "git",
